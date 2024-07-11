@@ -121,4 +121,3 @@ def file_handler(selected_file, last_dir=os.getcwd()):
 while True:
     file = file_browser()
     file_handler(file, file[2])
-

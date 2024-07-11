@@ -2,6 +2,9 @@
 
 A simple, interactive file browser written in Python. This tool allows users to navigate through their file system using a command-line interface. It provides a convenient way to open files and directories without leaving the terminal.
 
+![Opening Screen](images/Splash.png)
+![Navigating](images/Navigate.png)
+
 ## Features
 
 - **Browse Files and Directories**: Navigate through your file system with ease.
